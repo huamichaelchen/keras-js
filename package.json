@@ -27,7 +27,7 @@
   "homepage": "https://github.com/transcranial/keras-js#readme",
   "dependencies": {
     "@babel/polyfill": "7.0.0-beta.39",
-    "axios": "^0.17.1",
+    "axios": "^0.19.2",
     "bluebird": "^3.5.1",
     "cwise": "^1.0.10",
     "eventemitter3": "^3.0.1",
